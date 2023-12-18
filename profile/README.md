@@ -55,6 +55,115 @@ Hemos creado "Proyecto Estrella", una aplicación diseñada para enriquecer la e
 - Versión Python 3.6 - 3.9
 - pip install -r requirements.txt
 
+{
+
+    absl-py==2.0.0
+    annotated-types==0.6.0
+    anyio==3.7.1
+    asgiref==3.7.2
+    astunparse==1.6.3
+    cachetools==5.3.2
+    certifi==2023.11.17
+    charset-normalizer==3.3.2
+    click==8.1.7
+    cmake==3.27.9
+    contourpy==1.2.0
+    cycler==0.12.1
+    decorator==4.4.2
+    distro==1.8.0
+    Django==4.2.7
+    django-admin-interface==0.27.0
+    django-colorfield==0.11.0
+    django-cors-headers==4.3.1
+    djangorestframework==3.14.0
+    dlib==19.24.2
+    drf-yasg==1.21.7
+    face-recognition==1.3.0
+    face-recognition-models==0.3.0
+    facenet-pytorch==2.5.3
+    ffmpeg==1.4
+    filelock==3.13.1
+    flatbuffers==23.5.26
+    fonttools==4.45.1
+    fsspec==2023.12.0
+    gast==0.5.4
+    google-auth==2.23.4
+    google-auth-oauthlib==1.1.0
+    google-pasta==0.2.0
+    grpcio==1.59.3
+    h11==0.14.0
+    h5py==3.10.0
+    httpcore==1.0.2
+    httpx==0.25.2
+    idna==3.6
+    imageio==2.33.0
+    imageio-ffmpeg==0.4.9
+    importlib-metadata==6.8.0
+    importlib-resources==6.1.1
+    imutils==0.5.4
+    inflection==0.5.1
+    installer==0.7.0
+    Jinja2==3.1.2
+    keras==2.15.0
+    kiwisolver==1.4.5
+    libclang==16.0.6
+    Markdown==3.5.1
+    MarkupSafe==2.1.3
+    matplotlib==3.8.2
+    ml-dtypes==0.2.0
+    moviepy==1.0.3
+    mpmath==1.3.0
+    networkx==3.2.1
+    numpy==1.26.2
+    oauthlib==3.2.2
+    openai==1.3.8
+    opencv-contrib-python==4.8.1.78
+    opencv-python==4.8.1.78
+    opt-einsum==3.3.0
+    pandas==2.1.3
+    Pillow==10.1.0
+    playsound==1.3.0
+    proglog==0.1.10
+    protobuf==4.23.4
+    pyasn1==0.5.1
+    pyasn1-modules==0.3.0
+    PyAudio==0.2.14
+    pydantic==2.5.2
+    pydantic_core==2.14.5
+    pygame==2.5.2
+    pygbag==0.8.5
+    pyparsing==3.1.1
+    python-slugify==8.0.1
+    pytz==2023.3.post1
+    PyYAML==6.0.1
+    requests==2.31.0
+    requests-oauthlib==1.3.1
+    rsa==4.9
+    sniffio==1.3.0
+    SpeechRecognition==3.10.1
+    sqlparse==0.4.4
+    sympy==1.12
+    tensorboard==2.15.1
+    tensorboard-data-server==0.7.2
+    tensorflow==2.15.0
+    tensorflow-estimator==2.15.0
+    tensorflow-io-gcs-filesystem==0.34.0
+    tensorflow-macos==2.15.0
+    termcolor==2.3.0
+    text-unidecode==1.3
+    token-utils==0.1.8
+    torch==2.1.1
+    torchvision==0.16.1
+    tqdm==4.66.1
+    tzdata==2023.3
+    uritemplate==4.1.1
+    urllib3==2.1.0
+    Werkzeug==3.0.1
+    wrapt==1.14.1
+    zipp==3.17.0
+
+}
+
 #### Frontend:
 - Entorno: Visual Studio Code
 - Versión Angular: 17.0.4
