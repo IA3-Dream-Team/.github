@@ -51,7 +51,10 @@ Hemos creado "Proyecto Estrella", una aplicación diseñada para enriquecer la e
 
 ## 4. Instrucciones instalación
 #### Backend:
-- 
+- Entorno: Visual Studio Code
+- Versión Python 3.6 - 3.9
+- pip install -r requirements.txt
+
 #### Frontend:
 - Entorno: Visual Studio Code
 - Versión Angular: 17.0.4
